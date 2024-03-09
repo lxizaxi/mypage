@@ -5,7 +5,9 @@ description = "Add a short description here"
 authors = [
     { name = "lxizaxi", email = "USERNAME@users.noreply.github.com" }
 ]
-dependencies = []
+dependencies = [
+    "streamlit~=1.32.0",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
